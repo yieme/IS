@@ -1,0 +1,23 @@
+{
+  "name": "istest",
+  "version": "1.0.0",
+  "description": "IS test harness. Just copy/paste a tiny 79 byte line. No dependencies or a need for require, grunt, gulp, webpack, etc.",
+  "main": "IS.js",
+  "scripts": {
+    "test": "node spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://yieme@github.com.com/yieme/IS"
+  },
+  "keywords": [
+    "testing",
+    "assert",
+    "require",
+    "grunt",
+    "gulp",
+    "webpack"
+  ],
+  "author": "Yieme",
+  "license": "MIT"
+}
